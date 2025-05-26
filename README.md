@@ -23,7 +23,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/office-attendance-tracker.git
+   git clone https://github.com/kirti-mishra/office-attendance-tracker.git
    cd office-attendance-tracker
 2. **Set Up a Virtual Environment**:
    ```bash
